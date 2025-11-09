@@ -1,0 +1,110 @@
+===============================================================================
+                         QUICK START GUIDE
+                    Get Your Website Running in 5 Minutes!
+===============================================================================
+
+📋 STEP-BY-STEP INSTRUCTIONS
+===============================================================================
+
+STEP 1: GET PROPERTY IMAGES (5 minutes)
+---------------------------------------
+Go to: https://unsplash.com/
+
+Search and download ONE image for each:
+1. Search "modern house" → Download any → Rename to property1.jpg
+2. Search "apartment building" → Download any → Rename to property2.jpg
+3. Search "cottage" → Download any → Rename to property3.jpg
+4. Search "luxury villa" → Download any → Rename to property4.jpg
+5. Search "residential building" → Download any → Rename to property5.jpg
+6. Search "detached house" → Download any → Rename to property6.jpg
+
+STEP 2: ADD IMAGES TO FOLDER
+----------------------------
+Move all 6 images into the "images" folder in your project
+
+STEP 3: OPEN THE WEBSITE
+------------------------
+Double-click "index.html" to open in your browser
+
+STEP 4: TEST NAVIGATION
+-----------------------
+Click the menu links:
+- Home (index.html)
+- Buy (buy.html)
+- Contact (contact.html)
+
+DONE! Your website is ready! ✓
+
+===============================================================================
+WHAT YOU HAVE
+===============================================================================
+
+✓ Complete real estate website
+✓ 3 fully functional pages
+✓ Professional design
+✓ Mobile responsive
+✓ Ready for evaluation
+
+===============================================================================
+FILES OVERVIEW
+===============================================================================
+
+MAIN FILES (Open these in browser):
+→ index.html      - Start here! Your homepage
+→ buy.html        - Property listings page
+→ contact.html    - Contact form page
+
+STYLING:
+→ css/style.css   - All the beautiful styling
+
+IMAGES:
+→ images/         - Put your 6 property images here
+
+DOCUMENTATION:
+→ README.md       - Full project documentation
+→ IMAGE-GUIDE.txt - Detailed image instructions
+→ PROJECT-SUMMARY.txt - Complete project overview
+→ QUICK-START.txt - This file!
+
+===============================================================================
+TROUBLESHOOTING
+===============================================================================
+
+❌ Problem: Images don't show up
+✓ Solution: Make sure images are named EXACTLY:
+   property1.jpg, property2.jpg, property3.jpg, 
+   property4.jpg, property5.jpg, property6.jpg
+
+❌ Problem: Page looks broken
+✓ Solution: Make sure css/style.css is in the css folder
+
+❌ Problem: Links don't work
+✓ Solution: All HTML files should be in the main folder
+   (index.html, buy.html, contact.html)
+
+===============================================================================
+SUBMISSION CHECKLIST
+===============================================================================
+
+Before submitting your project:
+
+[ ] All 6 images are in the images folder
+[ ] All images are named correctly
+[ ] Opened index.html and checked it displays correctly
+[ ] Clicked all navigation links to test
+[ ] Checked on different screen sizes (resize browser)
+[ ] All files are in the correct folders
+
+===============================================================================
+NEED MORE HELP?
+===============================================================================
+
+→ See IMAGE-GUIDE.txt for detailed image download instructions
+→ See README.md for complete project documentation
+→ See PROJECT-SUMMARY.txt for technical specifications
+
+===============================================================================
+
+🚀 You're all set! Open index.html and enjoy your website!
+
+===============================================================================

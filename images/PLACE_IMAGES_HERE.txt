@@ -1,0 +1,26 @@
+===============================================
+      ADD YOUR PROPERTY IMAGES HERE
+===============================================
+
+You need to add 6 property images to this folder:
+
+1. property1.jpg
+2. property2.jpg
+3. property3.jpg
+4. property4.jpg
+5. property5.jpg
+6. property6.jpg
+
+See the IMAGE-GUIDE.txt file in the main folder for detailed instructions on where to download these images.
+
+QUICK OPTION:
+Visit https://unsplash.com/ and search for:
+- modern house
+- apartment building
+- cottage
+- villa
+- residential building
+
+Download 6 images and rename them as listed above.
+
+===============================================

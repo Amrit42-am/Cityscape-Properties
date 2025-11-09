@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sold Property Prices - Cityscape</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Cityscape</h1>
+                </div>
+                <nav class="nav">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="buy.html">Buy</a></li>
+                        <li><a href="rent.html">Rent</a></li>
+                        <li><a href="sold.html" class="active">Sold Prices</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Sold Property Prices</h1>
+            <p>View recent sold prices and market trends in your area</p>
+        </div>
+    </section>
+
+    <!-- Search Section -->
+    <section class="filter-section">
+        <div class="container">
+            <div class="filter-bar">
+                <input type="text" placeholder="Enter address or postcode" class="filter-input">
+                <select class="filter-select">
+                    <option>Last 3 months</option>
+                    <option>Last 6 months</option>
+                    <option>Last year</option>
+                    <option>Last 2 years</option>
+                </select>
+                <select class="filter-select">
+                    <option>All Property Types</option>
+                    <option>Detached</option>
+                    <option>Semi-Detached</option>
+                    <option>Terraced</option>
+                    <option>Flat</option>
+                </select>
+                <button class="filter-btn">Search Sold Prices</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sold Properties Listing -->
+    <section class="properties-listing">
+        <div class="container">
+            <div class="listing-header">
+                <p class="results-count">Showing 15 recently sold properties</p>
+                <select class="sort-select">
+                    <option>Sort by: Most Recent</option>
+                    <option>Price: High to Low</option>
+                    <option>Price: Low to High</option>
+                </select>
+            </div>
+
+            <!-- Sold Properties Table -->
+            <div class="sold-table">
+                <div class="sold-item">
+                    <div class="sold-image">
+                        <img src="images/property1.jpg" alt="Sold Property">
+                    </div>
+                    <div class="sold-details">
+                        <h3>45 Maple Avenue</h3>
+                        <p class="sold-location">Manchester, Greater Manchester, M20 4TH</p>
+                        <p class="sold-type">3 Bedroom Semi-Detached House</p>
+                    </div>
+                    <div class="sold-price-info">
+                            <div class="sold-price">₹425,000</div>
+                        <div class="sold-date">Sold: Oct 2024</div>
+                    </div>
+                </div>
+
+                <div class="sold-item">
+                    <div class="sold-image">
+                        <img src="images/property2.jpg" alt="Sold Property">
+                    </div>
+                    <div class="sold-details">
+                        <h3>Apartment 12, The Heights</h3>
+                        <p class="sold-location">London, Westminster, SW1A 1AA</p>
+                        <p class="sold-type">2 Bedroom Apartment</p>
+                    </div>
+                    <div class="sold-price-info">
+                        <div class="sold-price">₹595,000</div>
+                        <div class="sold-date">Sold: Oct 2024</div>
+                    </div>
+                </div>
+
+                <div class="sold-item">
+                    <div class="sold-image">
+                        <img src="images/property3.jpg" alt="Sold Property">
+                    </div>
+                    <div class="sold-details">
+                        <h3>Rose Cottage</h3>
+                        <p class="sold-location">Cotswolds, Gloucestershire, GL54 2AN</p>
+                        <p class="sold-type">4 Bedroom Detached Cottage</p>
+                    </div>
+                    <div class="sold-price-info">
+                        <div class="sold-price">₹575,000</div>
+                        <div class="sold-date">Sold: Sep 2024</div>
+                    </div>
+                </div>
+
+                <div class="sold-item">
+                    <div class="sold-image">
+                        <img src="images/property4.jpg" alt="Sold Property">
+                    </div>
+                    <div class="sold-details">
+                        <h3>Seaside Villa</h3>
+                        <p class="sold-location">Brighton, East Sussex, BN1 3PQ</p>
+                        <p class="sold-type">5 Bedroom Detached Villa</p>
+                    </div>
+                    <div class="sold-price-info">
+                        <div class="sold-price">₹890,000</div>
+                        <div class="sold-date">Sold: Sep 2024</div>
+                    </div>
+                </div>
+
+                <div class="sold-item">
+                    <div class="sold-image">
+                        <img src="images/property5.jpg" alt="Sold Property">
+                    </div>
+                    <div class="sold-details">
+                        <h3>23 King Street</h3>
+                        <p class="sold-location">Birmingham, West Midlands, B1 2LR</p>
+                        <p class="sold-type">2 Bedroom Flat</p>
+                    </div>
+                    <div class="sold-price-info">
+                        <div class="sold-price">₹275,000</div>
+                        <div class="sold-date">Sold: Aug 2024</div>
+                    </div>
+                </div>
+
+                <div class="sold-item">
+                    <div class="sold-image">
+                        <img src="images/property6.jpg" alt="Sold Property">
+                    </div>
+                    <div class="sold-details">
+                        <h3>The Willows</h3>
+                        <p class="sold-location">Leeds, West Yorkshire, LS6 3HG</p>
+                        <p class="sold-type">4 Bedroom Detached House</p>
+                    </div>
+                    <div class="sold-price-info">
+                        <div class="sold-price">₹625,000</div>
+                        <div class="sold-date">Sold: Aug 2024</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Market Insights -->
+            <div class="market-insights">
+                <h2 class="section-title">Market Insights</h2>
+                <div class="insights-grid">
+                    <div class="insight-card">
+                        <h3>Average Sold Price</h3>
+                        <p class="insight-value">₹465,000</p>
+                        <p class="insight-change positive">↑ 5.2% vs last year</p>
+                    </div>
+                    <div class="insight-card">
+                        <h3>Average Time to Sell</h3>
+                        <p class="insight-value">42 days</p>
+                        <p class="insight-change negative">↓ 8 days vs last year</p>
+                    </div>
+                    <div class="insight-card">
+                        <h3>Properties Sold</h3>
+                        <p class="insight-value">1,247</p>
+                        <p class="insight-change positive">↑ 12% vs last year</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pagination -->
+            <div class="pagination">
+                <button class="page-btn active">1</button>
+                <button class="page-btn">2</button>
+                <button class="page-btn">3</button>
+                <button class="page-btn">Next</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-column">
+                    <h3>Cityscape</h3>
+                    <p>Your trusted partner in finding the perfect property across the UK.</p>
+                </div>
+                <div class="footer-column">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="buy.html">Properties for Sale</a></li>
+                        <li><a href="rent.html">Properties to Rent</a></li>
+                        <li><a href="sold.html">Sold Prices</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="#">Property Guides</a></li>
+                        <li><a href="#">Mortgage Calculator</a></li>
+                        <li><a href="#">Area Guides</a></li>
+                        <li><a href="#">Help & Support</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Contact</h4>
+                    <ul>
+                        <li>📞 0800 123 4567</li>
+                        <li>✉️ info@cityscape.co.uk</li>
+                        <li>📍 London, United Kingdom</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Cityscape. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

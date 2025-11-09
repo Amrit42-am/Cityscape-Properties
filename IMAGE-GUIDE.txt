@@ -1,0 +1,142 @@
+===============================================================================
+                    PROPERTY IMAGES GUIDE
+===============================================================================
+
+You need 6 property images for this website. Here are the EASIEST ways to get them:
+
+===============================================================================
+OPTION 1: DOWNLOAD FROM UNSPLASH (RECOMMENDED - FASTEST)
+===============================================================================
+
+Visit Unsplash.com and download these images:
+
+1. Property 1 - Modern House:
+   https://unsplash.com/s/photos/modern-house-exterior
+   Save as: property1.jpg
+
+2. Property 2 - Apartment Building:
+   https://unsplash.com/s/photos/luxury-apartment-building
+   Save as: property2.jpg
+
+3. Property 3 - Cottage:
+   https://unsplash.com/s/photos/english-cottage
+   Save as: property3.jpg
+
+4. Property 4 - Villa:
+   https://unsplash.com/s/photos/luxury-villa
+   Save as: property4.jpg
+
+5. Property 5 - Flat:
+   https://unsplash.com/s/photos/apartment-building
+   Save as: property5.jpg
+
+6. Property 6 - Detached House:
+   https://unsplash.com/s/photos/detached-house
+   Save as: property6.jpg
+
+STEPS:
+1. Click each link above
+2. Choose any image you like from the search results
+3. Click the download button (↓)
+4. Rename the downloaded file to the correct name (property1.jpg, etc.)
+5. Move all images to the "images" folder
+
+===============================================================================
+OPTION 2: USE AI IMAGE GENERATORS
+===============================================================================
+
+Best Free AI Image Generators:
+
+1. BING IMAGE CREATOR (Easiest - No Sign-up)
+   https://www.bing.com/create
+   
+   Use these prompts:
+   - "modern 3 bedroom house exterior with driveway"
+   - "luxury apartment building city center"
+   - "english stone cottage with garden"
+   - "contemporary villa with swimming pool"
+   - "modern residential apartment building"
+   - "executive detached house with garage"
+
+2. LEONARDO.AI (Best Quality)
+   https://leonardo.ai/
+   - Sign up for free
+   - Use the same prompts as above
+   - Download images
+   - Rename and save to images folder
+
+3. CRAIYON (Completely Free)
+   https://www.craiyon.com/
+   - No sign-up needed
+   - Generate images with prompts
+   - Right-click to save images
+
+===============================================================================
+OPTION 3: PEXELS (Another Free Stock Photo Site)
+===============================================================================
+
+Visit: https://www.pexels.com/
+
+Search for:
+1. "modern house" → save as property1.jpg
+2. "apartment building" → save as property2.jpg
+3. "cottage" → save as property3.jpg
+4. "villa" → save as property4.jpg
+5. "residential building" → save as property5.jpg
+6. "detached house" → save as property6.jpg
+
+===============================================================================
+QUICK CHECKLIST
+===============================================================================
+
+After downloading images, make sure:
+
+[ ] You have 6 images named exactly:
+    - property1.jpg
+    - property2.jpg
+    - property3.jpg
+    - property4.jpg
+    - property5.jpg
+    - property6.jpg
+
+[ ] All images are in the "images" folder
+
+[ ] Images are JPG format
+
+[ ] Image size is reasonable (recommended: 800x600px to 1200x900px)
+
+===============================================================================
+TROUBLESHOOTING
+===============================================================================
+
+Q: Images don't show on the website?
+A: Check that:
+   - Images are in the "images" folder
+   - File names are EXACTLY as listed above (case-sensitive)
+   - Files are .jpg format
+
+Q: Images are too large and slow to load?
+A: Resize them to 1200x900px or smaller using:
+   - Windows: Paint
+   - Mac: Preview
+   - Online: tinypng.com or compressor.io
+
+Q: Can I use different image names?
+A: Yes, but you'll need to update the HTML files to match your image names
+
+===============================================================================
+RECOMMENDED IMAGE SIZES
+===============================================================================
+
+For best results:
+- Width: 800px to 1200px
+- Height: 600px to 900px
+- Format: JPG
+- File size: Under 500KB per image
+
+===============================================================================
+
+That's it! Once you have your 6 images in the images folder, your website 
+will look professional and complete.
+
+Good luck with your project! 🏡
