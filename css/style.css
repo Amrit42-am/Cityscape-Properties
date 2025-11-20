@@ -34,11 +34,18 @@ body {
     align-items: center;
 }
 
+.logo-img {
+    height: 40px;
+    margin-right: 10px;
+}
+
 .logo h1 {
     color: #fff;
     font-size: 1.8rem;
     font-weight: bold;
     letter-spacing: 1px;
+    display: flex;
+    align-items: center;
 }
 
 .nav ul {
@@ -62,8 +69,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-                url('https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200') center/cover no-repeat;
+    background: url('../images/Background2.jpg') center/cover no-repeat;
     min-height: 500px;
     display: flex;
     align-items: center;
